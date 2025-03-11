@@ -27,5 +27,4 @@ O programa possui um **menu interativo** no console para facilitar a navegação
 ## 🚀 **Tecnologias Utilizadas**
 
 - **Linguagem:** C#  
-- **IDE Recomendada:** Visual Studio ou VS Code  
-- **Paradigma:** Programação Estruturada  
+- **IDE Recomendada:** VS Code  
